@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo Henrique (PH)
-- 👀 I’m interested in Phython (Graphical User Interface (GUI) and Data Science) and Arduino Sensors 
+- 👀 I’m interested in Python (Graphical User Interface (GUI) and Data Science) and Arduino Sensors 
 - 🌱 I’m currently learning Python (Kivy)
 - 💞️ I’m looking to collaborate on Physics Teaching
 - 📫 How to reach me e-mail:phlorenzoni@hotmail.com
