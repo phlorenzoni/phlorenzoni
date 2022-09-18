@@ -1,7 +1,7 @@
-Meu nome é Paulo Henrique.
-Atualmente estudo Inteligência Artificial e Data Science utilizando Python.     
-Procuro colobarar com o Ensino de Física e Física no geral. Possuo experiência com Arduino, sensores, desenvolvimento de aplicativos para Android (AppInventor) e Python para análise e visualização de dados.    
-
+PT_BR:    
+Meu nome é Paulo Henrique. Atualmente estudo Inteligência Artificial e Data Science utilizando Python. Procuro colobarar com o Ensino de Física e Física no geral. Possuo experiência com Arduino, sensores, desenvolvimento de aplicativos para Android (AppInventor) e Python para análise e visualização de dados.    
+     
+EN:    
 My name is Paulo Henrique. I am currently studying Artificial Intelligence and Data Science using Python.
 I try to collaborate with the Teaching of Physics and Physics in general. I have experience with Arduino, sensors, application development for Android (AppInventor) and Python for data analysis and visualization.
 
