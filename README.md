@@ -7,6 +7,8 @@ My name is Paulo Henrique. I am currently studying Artificial Intelligence and D
 I try to collaborate with the Teaching of Physics and Physics in general. I have experience with Arduino, sensors, application development for Android (AppInventor) and Python for data analysis and visualization.
 
 Email: phlorenzoni@hotmail.com
+
+</br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlorenzoni&layout=compact&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tetzdesen](https://github-readme-stats.vercel.app/api?username=phlorenzoni&show_icons=true&theme=blueberry)
