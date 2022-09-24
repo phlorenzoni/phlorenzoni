@@ -1,12 +1,17 @@
 ## Hello, I'm Paulo Henrique.
-PT_BR:    
-Meu nome é Paulo Henrique. Atualmente estudo Inteligência Artificial e Data Science utilizando Python. Procuro colobarar com o Ensino de Física e Física no geral. Possuo experiência com Arduino, sensores, desenvolvimento de aplicativos para Android (AppInventor) e Python para análise e visualização de dados.    
-     
-EN:    
-My name is Paulo Henrique. I am currently studying Artificial Intelligence and Data Science using Python.
-I try to collaborate with the Teaching of Physics and Physics in general. I have experience with Arduino, sensors, application development for Android (AppInventor) and Python for data analysis and visualization.
+#### Physics (9/9) by Universidade Federal do Espírito Santo - [UFES](https://www.ufes.br/).    
+## Languages and Technologies of Interest:
+<div>
+<img src="https://icongr.am/devicon/python-original-wordmark.svg?size=120&color=currentColor" hspace=30 />
+<img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=120&color=currentColor" hspace=30 />
+<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=120&color=currentColor" hspace=30/>
+<img src="https://icongr.am/simple/arduino.svg?size=90&color=currentColor&colored=true"/>
+</div>
 
-Email: phlorenzoni@hotmail.com
+<br></br>    
+## Contacts
+Email: phlorenzoni@hotmail.com     
+
 
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlorenzoni&layout=compact&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
