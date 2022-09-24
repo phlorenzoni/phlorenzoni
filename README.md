@@ -13,7 +13,7 @@
 <a href="mailto:phlorenzoni@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>     
 <a href="https://www.linkedin.com/in/paulo-henrique-lorenzoni-filho-848665153/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </br></br>
-
+## More Information
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlorenzoni&layout=compact&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tetzdesen](https://github-readme-stats.vercel.app/api?username=phlorenzoni&show_icons=true&theme=blueberry)
