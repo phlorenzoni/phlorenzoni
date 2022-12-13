@@ -1,6 +1,6 @@
 ## Hello, I'm Paulo Henrique.
 #### Physics (9/9) by Universidade Federal do Espírito Santo - [UFES](https://www.ufes.br/).     
-#### Currently, I've interest on Data Science with Python.
+#### Currently, I've interest in Machine Learning (classification, regression and clustering) with Scikit-Learn (Python).
 
 ##
 <h3>Languages and Technologies:</h3>
