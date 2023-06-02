@@ -1,13 +1,18 @@
 ## Hello, I'm Paulo Henrique.
-#### Physics (9/9) by Universidade Federal do Espírito Santo - [UFES](https://www.ufes.br/).     
-#### Currently, I've interest in Machine Learning (classification, regression and clustering) with Scikit-Learn (Python).
+#### Physics degree by Universidade Federal do Espírito Santo - [UFES](https://www.ufes.br/).     
+#### Currently, I've interest in Complex Networks.
 
 ##
 <h3>Languages and Technologies:</h3>
 <div align='center'>
-<img src="https://icongr.am/devicon/python-original-wordmark.svg?size=120&color=currentColor" hspace=30 />
-<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=120&color=currentColor" hspace=30/>
-<img src="https://icongr.am/simple/arduino.svg?size=90&color=currentColor&colored=true"/>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht= "85" height="85" hspace=30 /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" widht= "85" height="85" hspace=30 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" widht= "85" height="85" hspace=30 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht= "85" height="85" hspace=30  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" widht= "85" height="85" />
+          
+          
 </div>   
 
 ##
