@@ -1,6 +1,6 @@
 ## Hello, I'm Paulo Henrique.
-#### Physics degree by Universidade Federal do Espírito Santo - [UFES](https://www.ufes.br/).     
-#### Currently, I've interest in Complex Networks.
+#### MSc. candidate in Physics at Universidade Federal de Viçosa - [UFV](https://posfisica.ufv.br/).     
+#### Currently, I've interest in complex networks, dynamical infectious diseases  modelling, etc.
 
 ##
 <h3>Languages and Technologies:</h3>
