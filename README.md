@@ -1,12 +1,15 @@
 ## Hello, I'm Paulo Henrique.
 #### MSc. candidate in Physics at Universidade Federal de Viçosa - [UFV](https://posfisica.ufv.br/).     
-#### Currently, I've interest in complex networks, dynamical infectious diseases  modelling, etc.
+#### I am interested in dynamical processes on complex networks and high-performance computing in physics (Fortran and C). I investigate phase transitions and criticality in epidemic models, such as Susceptible-Infected-Susceptible (SIS) and Susceptible-Infected-Removed (SIR), using continuous-time stochastic process simulations with Optmized Gillespie Algorithm.
 
 ##
 <h3>Languages and Technologies:</h3>
 <div align='center'>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht= "85" height="85" hspace=30 /> 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"  widht= "85" height="85" hspace=30/>
+             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" widht= "85" height="85" hspace=30 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" widht= "85" height="85" hspace=30 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht= "85" height="85" hspace=30  />
